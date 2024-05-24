@@ -6,7 +6,7 @@ export default function Home() {
             <div>
                 <h1 className="text-4xl text-center">INICIO</h1>
                 <a href="/productos" className="inline-flex rounded-md bg-blue-400 py-2 px-3">
-                    Productos
+                    Prueba de push
                 </a>
             </div>
         </>
